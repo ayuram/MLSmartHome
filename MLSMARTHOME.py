@@ -195,6 +195,7 @@ while True:
                                 textlength = len(newtext)
                                 meantnumber = textlength - 1
                                 print(newtext[meantnumber])
+                                #for later
                                 p = True
                                 if(z == l1):
                                     l1keywords.insert(0, str(newtext[meantnumber]))
